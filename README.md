@@ -2,13 +2,10 @@
 This project is a multi-language speech recognition system built using Python. It supports six languages: English, Turkish, Spanish, French, German, and Japanese. The application leverages advanced speech recognition libraries to convert spoken words into text accurately.
 
 # 🔍 Features
-Multi-Language Support: Recognizes and processes speech in six languages (English, Turkish, Spanish, French, German, Japanese).
-
-Real-Time Recognition: Converts speech to text in real-time.
-
-High Accuracy: Utilizes advanced speech recognition algorithms for accurate transcription.
-
-User-Friendly Interface: Easy-to-use command-line interface.
+- Multi-Language Support: Recognizes and processes speech in six languages (English, Turkish, Spanish, French, German, Japanese).
+- Real-Time Recognition: Converts speech to text in real-time.
+- High Accuracy: Utilizes advanced speech recognition algorithms for accurate transcription.
+- User-Friendly Interface: Easy-to-use command-line interface.
 
 # 📋 Requirements
 To run this application, you need:
