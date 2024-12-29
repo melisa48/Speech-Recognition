@@ -1,0 +1,14 @@
+[2024-12-28 15:50:17] hello
+[2024-12-28 15:50:24] hola
+[2024-12-28 15:53:13] (en-US) hello
+[2024-12-28 15:53:19] (en-US) good morning
+[2024-12-28 15:53:25] (en-US) change the language
+[2024-12-28 15:53:47] (en-US) change the language
+[2024-12-28 16:00:36] (tr-TR) Merhaba
+[2024-12-28 16:00:48] (tr-TR) nasılsın
+[2024-12-28 16:01:45] (es-ES) Hola
+[2024-12-28 16:02:19] (en-US) hello
+[2024-12-28 16:02:46] (en-US) how are you
+[2024-12-28 16:02:54] (en-US) good afternoon
+[2024-12-28 16:03:15] (es-ES) Cómo estás
+[2024-12-28 16:03:23] (es-ES) Hola
